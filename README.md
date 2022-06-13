@@ -30,4 +30,4 @@ They will need to connect to the database by running: mysql -u root -p
 ## Links
 Github Repository: https://github.com/hvphan1993/e-commerce-back-end.git
 
-Video Walkthrough: 
+Video Walkthrough: https://drive.google.com/file/d/1LE6DUKcMBou6bE62lpYEVTdNuBZq4RlX/view
